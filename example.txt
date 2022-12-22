@@ -1,0 +1,43 @@
+(xxx)-xxx-xxxx | your@email.com | 123 Your Address, City, State Zip Code
+
+CAREER OBJECTIVE
+
+Diligent Data Analyst with over 5 years of experience. Seeking an opportunity to leverage my diverse skills and experience in data mining and analysis into the open data analyst position at your company. A B.S. in Statistics from a top 50 university coupled with my ample experience in analytics will make me a positive asset to your organization.
+
+PROFESSIONAL EXPERIENCE
+
+CROSSPATH INC, Chicago, IL | March 2014 – Present
+
+Data Analyst II
+
+Conduct data mining and data modeling in coordination with the finance department
+Develop complex reports using SQL to examine compensation totaling $4.9 million for over 100 employees
+Identify unnecessary shipping costs, saving the company $865,000 annually
+Collaborate with international partners to create scheduled and ad hoc reports with which business and financial models are made
+Assist in the creation of a novel method of new account information input, saving approximately 300 man-hours annually
+Analyze inventory usage and transactions
+LANGFORD HOSPITAL, Madison, WI | January 2012 – February 2014
+
+Data Analyst I
+
+Analyze and track patient data for a 500-bed facility
+Track and monitor patient payment processes weekly
+Coordinate with medical staff to clean patient data in accordance with HIPAA regulations
+Contribute to the implementation of a medical records filing system which helped decrease outpatient wait time by 13.2%
+Conduct data mining and analysis on annual net patient revenue totaling $1.1 billion
+Assist in the training of 3 junior data analysts
+EDUCATION
+
+Bachelor of Science in Statistics, UNIVERSITY OF WISCONSIN, Madison, WI
+
+December 2011
+
+Graduated with Honors | GPA 3.7/4.0
+
+Google Analytics IQ Certification
+
+ADDITIONAL SKILLS
+
+Expertise in SAS, Microsoft Acess, SQL, Cognos Reportnet, and Tableau
+Mastery of Microsoft Excel (including PivotTables and VLOOKUP)
+Proficient with Google Analytics and AdWords Java JavaScript HTML CSS
